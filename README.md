@@ -41,10 +41,11 @@ Outros:
  <h1 align='center'>Contato</h1>
    <br><br>
 <p align='center'>Você pode me achar também no Linkedin e Instagram</p>
-
-<a align='center' href='https://www.linkedin.com/in/ana-chataignier-6a3768263/'><img align='center' width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
-<a align="center" href="https://www.instagram.com/anachataignier"><img  align='center' width=18% src='https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif'></a>
-<a align="center" href='https://www.facebook.com/analuiza.chataignier'><img align='center' width=16% src='https://www.gifservice.fr/img/gif-vignette-small/801aff38f329e39e083867e4865de6fe/51588-multi-media-computer-internet-facebook.gif'></a>
+<div align='center'>
+<a  href='https://www.linkedin.com/in/ana-chataignier-6a3768263/'><img align='center' width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a> 
+<a  href="https://www.instagram.com/anachataignier"><img  align='center' width=18% src='https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif'></a>
+<a  href='https://www.facebook.com/analuiza.chataignier'><img align='center' width=16% src='https://www.gifservice.fr/img/gif-vignette-small/801aff38f329e39e083867e4865de6fe/51588-multi-media-computer-internet-facebook.gif'></a>
+</div>
 
 
 <br>
