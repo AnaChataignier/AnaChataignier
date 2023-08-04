@@ -18,16 +18,19 @@ Hoje me sinto pronta para minha primeira vaga Dev, e posso afirmar que minha mel
   <div align="center">
   <br><br>
  </div>
- 
- Fundamentos:   
+ <div  align="center">
+ Fundamentos:
+  <br>
  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+ 
   <br>
-  <br>
- Linguagens:   
+ Linguagens: 
+ <br>
  <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
+   
+    
+ Ferramentas:
     <br>
-    <br>
- Ferramentas:    
  <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'><img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'><br> <img src='https://img.shields.io/badge/Django%20Rest%20Framework-0078d7.svg?style=for-the-badge&logo=django-rest-framework&logoColor=white'>
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -35,6 +38,7 @@ Hoje me sinto pronta para minha primeira vaga Dev, e posso afirmar que minha mel
 Outros:   
   <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> 
 <br><br>
+</div>
 
 
 
