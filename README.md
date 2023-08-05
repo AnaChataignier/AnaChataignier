@@ -12,51 +12,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center"> Prazer, Ana - Desenvolvedora Backend </h1>
   <h5 >
-Olá! Seja bem-vindo(a) ao meu README de apresentação! Meu nome é Ana, tenho 25 anos e sou uma desenvolvedora Back-end apaixonada por tecnologia e programação. 
-Atualmente, moro no Rio de Janeiro, fui bailarina profissional, nas horas vagas sou baixista e minha paixão pela programação floresceu quando conheci o Gustavo Guanabara e sua excelente didática.
+Olá! Sou a Ana, tenho 25 anos, moro no Rio de Janeiro. Sou ex-bailarina profissional e baixista nas horas vagas, me encantei por programação através do mestre Gustavo Guanabara, sua excelente didática me motivou a ser programadora Back-end em Python. Formada pelo SENAC-RJ em Desenvolvimento Web - Python, atualmente estudo na Alura onde encontro abordagens sobre diversos tópicos de tecnologia, e recentemente  comecei o programa EAD de Ciência da Computação e Web Programming da CS50 e em parceria com a renomada Universidade de Harvard. Essa experiência tem sido desafiadora e enriquecedora, impulsionando meu crescimento acadêmico.
 
 
+Hard Skills: Python, Django, Django RestFramework, MySQL, HTML, Git,  Github.
 
+Soft Skills: Curiosidade, Adaptabilidade, Trabalho em equipe, Comunicação, e Aprendizado Rápido.
 
+Objetivo: Meu objetivo é ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
 
-Formada em programação Back-end pelo SENAC-RJ: Meu conhecimento técnico em programação teve sua base sólida por meio do curso oferecido pelo SENAC-RJ. Aprendi conceitos fundamentais de desenvolvimento e adquiri habilidades práticas essenciais para a carreira.
-
-Aluna ativa da plataforma Alura: Na Alura, tenho a oportunidade de me aprimorar continuamente, expandindo meu conhecimento em diversas áreas da tecnologia. A variedade de formações disponíveis na plataforma me encanta.
-
-Programa EAD da CS50 e Harvard: Buscando sempre aprender com os melhores, recentemente ingressei no programa de Ciência da Computação e Web Programming da CS50 em parceria com a renomada Universidade de Harvard. Essa experiência tem sido desafiadora e enriquecedora, impulsionando meu crescimento acadêmico.
-
- Skills:
-
-Linguagens de Programação:
-Possuo habilidades em Python, a linguagem na qual me especializei e é a base da maior parte do meu trabalho.
-
-Frameworks: 
-Tenho experiência em desenvolvimento com o Django e Django RestFramework, que me permitem criar aplicações web escaláveis.
-
-Banco de Dados:
-Sou familiarizada com MySQL, o que me permite criar e gerenciar bancos de dados eficientes e otimizados para minhas aplicações.
-
-Frontend: 
-Embora meu foco seja o Back-end, também tenho conhecimentos em HTML para desenvolver interfaces simples e funcionais.
-
-Ferramentas de Desenvolvimento:
-Utilizo o VSCode como meu editor de código principal e sou adepta do Git e Github para controle de versão e colaboração em projetos.
-
-Soft Skills:
-
-Curiosidade e Aprendizado Contínuo:
-Minha curiosidade inesgotável pela tecnologia me motiva a buscar conhecimento constantemente. Acredito que aprender é uma jornada contínua e estou sempre em busca de novos desafios e habilidades.
-
-Adaptabilidade:Sou flexível e me adapto facilmente a novas situações.
-
-Trabalho em equipe: 
-Como baixista, aprendi a importância da harmonia em um grupo. Tenho facilidade em trabalhar em equipe, valorizo a troca de ideias e contribuo para um ambiente colaborativo.
-
-
-Objetivo Profissional:
-Meu objetivo é ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
-
-Muito obrigada pela atenção e pela oportunidade! Vamos criar grandes soluções juntos!
+ Vamos criar soluções incríveis juntos!
 
 </h5>
    
