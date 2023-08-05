@@ -11,7 +11,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center"> Prazer, Ana - Desenvolvedora Backend </h1>
-  <h5 align="center">
+  <h5 >
 Olá! Seja bem-vindo(a) ao meu README de apresentação! Meu nome é Ana, tenho 25 anos e sou uma desenvolvedora Back-end apaixonada por tecnologia e programação. 
 Atualmente, moro no Rio de Janeiro, fui bailarina profissional, e nas horas vagas, sou baixista.
 
