@@ -46,12 +46,7 @@ Meu objetivo é ingressar em uma equipe de desenvolvimento Back-end onde eu poss
 
 Estou animada para fazer parte de projetos inovadores e contribuir com meu conhecimento e dedicação. Se você busca um desenvolvedor Back-end apaixonado por tecnologia e com vontade de crescer, estou pronta para encarar esse desafio!
 
-Você pode me contatar pelo e-mail: anachataignier2@gmail.com ou pelo meu perfil no Github: github.com/AnaChataignier
-
 Muito obrigada pela atenção e pela oportunidade! Vamos criar grandes soluções juntos!
-
-
-
 
 </h5>
    
