@@ -10,38 +10,49 @@
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=AnaChataignier&theme=gotham&hide_border=true&area=true&color=00bfbf) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  <h1 align="center"> Prazer </h1>
-  <h5 align="center">Ana - Desenvolvedora Backend
-Olá! Seja bem-vindo(a) ao meu README de apresentação! Meu nome é Ana, tenho 25 anos e sou uma desenvolvedora Back-end apaixonada por tecnologia e programação. Atualmente, moro no Rio de Janeiro, fui bailarina profissional, e nas horas vagas, sou baixista.
+  <h1 align="center"> Prazer, Ana - Desenvolvedora Backend </h1>
+  <h5 align="center">
+Olá! Seja bem-vindo(a) ao meu README de apresentação! Meu nome é Ana, tenho 25 anos e sou uma desenvolvedora Back-end apaixonada por tecnologia e programação. 
+Atualmente, moro no Rio de Janeiro, fui bailarina profissional, e nas horas vagas, sou baixista.
 
 Formação e Educação: 
+
 Formada em programação Back-end pelo SENAC-RJ: Meu conhecimento técnico em programação teve sua base sólida por meio do curso oferecido pelo SENAC-RJ. Aprendi conceitos fundamentais de desenvolvimento e adquiri habilidades práticas essenciais para a carreira.
 
 Aluna ativa da plataforma Alura: Na Alura, tenho a oportunidade de me aprimorar continuamente, expandindo meu conhecimento em diversas áreas da tecnologia. A variedade de formações disponíveis na plataforma me encanta e me permite explorar tópicos além do meu foco principal.
 
 Programa EAD da CS50 e Harvard: Buscando sempre aprender com os melhores, recentemente ingressei no programa de Ciência da Computação e Web Programming da CS50 em parceria com a renomada Universidade de Harvard. Essa experiência tem sido desafiadora e enriquecedora, impulsionando meu crescimento acadêmico.
 
-Habilidades Técnicas (Hard Skills)
-Linguagens de Programação: Possuo habilidades em Python, a linguagem na qual me especializei e é a base da maior parte do meu trabalho.
+Habilidades Técnicas (Hard Skills):
 
-Frameworks: Tenho experiência em desenvolvimento com o Django e Django RestFramework, que me permitem criar aplicações web escaláveis.
+Linguagens de Programação:
+Possuo habilidades em Python, a linguagem na qual me especializei e é a base da maior parte do meu trabalho.
 
-Banco de Dados: Sou familiarizada com MySQL, o que me permite criar e gerenciar bancos de dados eficientes e otimizados para minhas aplicações.
+Frameworks: 
+Tenho experiência em desenvolvimento com o Django e Django RestFramework, que me permitem criar aplicações web escaláveis.
 
-Frontend: Embora meu foco seja o Back-end, também tenho conhecimentos em HTML para desenvolver interfaces simples e funcionais.
+Banco de Dados:
+Sou familiarizada com MySQL, o que me permite criar e gerenciar bancos de dados eficientes e otimizados para minhas aplicações.
 
-Ferramentas de Desenvolvimento: Utilizo o VSCode como meu editor de código principal e sou adepta do Git e Github para controle de versão e colaboração em projetos.
+Frontend: 
+Embora meu foco seja o Back-end, também tenho conhecimentos em HTML para desenvolver interfaces simples e funcionais.
 
-Habilidades Comportamentais (Soft Skills)
+Ferramentas de Desenvolvimento:
+Utilizo o VSCode como meu editor de código principal e sou adepta do Git e Github para controle de versão e colaboração em projetos.
 
-Curiosidade e Aprendizado Contínuo: Minha curiosidade inesgotável pela tecnologia me motiva a buscar conhecimento constantemente. Acredito que aprender é uma jornada contínua e estou sempre em busca de novos desafios e habilidades.
+Habilidades Comportamentais (Soft Skills):
 
-Adaptabilidade: Minha experiência como bailarina profissional me ensinou a ser flexível e adaptar-me facilmente a novas situações. Isso se reflete em minha capacidade de lidar com diferentes projetos e tecnologias.
+Curiosidade e Aprendizado Contínuo:
+Minha curiosidade inesgotável pela tecnologia me motiva a buscar conhecimento constantemente. Acredito que aprender é uma jornada contínua e estou sempre em busca de novos desafios e habilidades.
 
-Trabalho em equipe: Como baixista, aprendi a importância da harmonia em um grupo. Tenho facilidade em trabalhar em equipe, valorizo a troca de ideias e contribuo para um ambiente colaborativo.
+Adaptabilidade:
+Minha experiência como bailarina profissional me ensinou a ser flexível e adaptar-me facilmente a novas situações. Isso se reflete em minha capacidade de lidar com diferentes projetos e tecnologias.
+
+Trabalho em equipe: 
+Como baixista, aprendi a importância da harmonia em um grupo. Tenho facilidade em trabalhar em equipe, valorizo a troca de ideias e contribuo para um ambiente colaborativo.
 
 
-Objetivo Profissional
+Objetivo Profissional:
 Meu objetivo é ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
 
 Estou animada para fazer parte de projetos inovadores e contribuir com meu conhecimento e dedicação. Se você busca um desenvolvedor Back-end apaixonado por tecnologia e com vontade de crescer, estou pronta para encarar esse desafio!
