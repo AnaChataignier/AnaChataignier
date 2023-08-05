@@ -17,7 +17,7 @@ Atualmente, moro no Rio de Janeiro, fui bailarina profissional, nas horas vagas 
 
 
 
-Formação e Educação: 
+
 
 Formada em programação Back-end pelo SENAC-RJ: Meu conhecimento técnico em programação teve sua base sólida por meio do curso oferecido pelo SENAC-RJ. Aprendi conceitos fundamentais de desenvolvimento e adquiri habilidades práticas essenciais para a carreira.
 
@@ -25,7 +25,7 @@ Aluna ativa da plataforma Alura: Na Alura, tenho a oportunidade de me aprimorar 
 
 Programa EAD da CS50 e Harvard: Buscando sempre aprender com os melhores, recentemente ingressei no programa de Ciência da Computação e Web Programming da CS50 em parceria com a renomada Universidade de Harvard. Essa experiência tem sido desafiadora e enriquecedora, impulsionando meu crescimento acadêmico.
 
-Habilidades Técnicas (Hard Skills):
+ Skills:
 
 Linguagens de Programação:
 Possuo habilidades em Python, a linguagem na qual me especializei e é a base da maior parte do meu trabalho.
@@ -42,7 +42,7 @@ Embora meu foco seja o Back-end, também tenho conhecimentos em HTML para desenv
 Ferramentas de Desenvolvimento:
 Utilizo o VSCode como meu editor de código principal e sou adepta do Git e Github para controle de versão e colaboração em projetos.
 
-Habilidades Comportamentais (Soft Skills):
+Soft Skills:
 
 Curiosidade e Aprendizado Contínuo:
 Minha curiosidade inesgotável pela tecnologia me motiva a buscar conhecimento constantemente. Acredito que aprender é uma jornada contínua e estou sempre em busca de novos desafios e habilidades.
