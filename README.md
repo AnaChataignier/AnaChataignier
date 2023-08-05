@@ -15,6 +15,7 @@
 Olá! Seja bem-vindo(a) ao meu README de apresentação! Meu nome é Ana, tenho 25 anos e sou uma desenvolvedora Back-end apaixonada por tecnologia e programação. 
 Atualmente, moro no Rio de Janeiro, fui bailarina profissional, e nas horas vagas, sou baixista.
 
+
 Formação e Educação: 
 
 Formada em programação Back-end pelo SENAC-RJ: Meu conhecimento técnico em programação teve sua base sólida por meio do curso oferecido pelo SENAC-RJ. Aprendi conceitos fundamentais de desenvolvimento e adquiri habilidades práticas essenciais para a carreira.
