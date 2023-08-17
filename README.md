@@ -20,7 +20,7 @@ Soft Skills: Curiosidade, Adaptabilidade, Trabalho em equipe, Comunicação, e A
 
 Objetivo: Meu objetivo é ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
 
- Vamos criar soluções incríveis juntos!
+
 
 </h3>
    
