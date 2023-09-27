@@ -12,13 +12,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center"> Prazer, Ana - Desenvolvedora Backend </h1>
   <h3 >
-Olá! Sou a Ana, tenho 25 anos, moro no Rio de Janeiro. Sou ex-bailarina profissional e baixista nas horas vagas, me encantei por programação através do mestre Gustavo Guanabara, sua excelente didática me motivou a ser programadora Back-end em Python. Formada pelo SENAC-RJ em Desenvolvimento Web - Python, atualmente estudo na Alura onde encontro abordagens sobre diversos tópicos de tecnologia. Recentemente  comecei o programa EAD de Ciência da Computação e Web Programming da CS50 e em parceria com a renomada Universidade de Harvard. Essa experiência tem sido desafiadora e enriquecedora, impulsionando meu crescimento acadêmico.
-
+Desenvolvedora apaixonada, mergulhando cada vez mais fundo no universo da tecnologia.  A paixão por aprender coisas novas vem desde cedo. Entusiasmo e curiosidade me acompanham diáriamente nessa jornada.  
 Hard Skills: Python, Django, Django RestFramework, MySQL, HTML, Git,  Github.
 
 Soft Skills: Curiosidade, Adaptabilidade, Trabalho em equipe, Comunicação, e Aprendizado Rápido.
 
-Objetivo: Meu objetivo é ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
+Objetivo: Ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
 
 
 
