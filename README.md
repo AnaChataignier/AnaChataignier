@@ -17,8 +17,6 @@ Hard Skills: Python, Django, Django RestFramework, MySQL, HTML, Git,  Github.
 
 Soft Skills: Curiosidade, Adaptabilidade, Trabalho em equipe, Comunicação, e Aprendizado Rápido.
 
-Objetivo: Ingressar em uma equipe de desenvolvimento Back-end onde eu possa aplicar e aprimorar minhas habilidades em Python, Django e demais tecnologias. Estou em busca de oportunidades que me desafiem, me permitam aprender e crescer profissionalmente.
-
 
 
 </h3>
