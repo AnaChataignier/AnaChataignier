@@ -10,10 +10,10 @@
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=AnaChataignier&theme=gotham&hide_border=true&area=true&color=00bfbf) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  <h1 align="center"> Prazer, Ana - Desenvolvedora Backend </h1>
+  <h1 align="center"> Ana - Backend Developer </h1>
   <h3 >
-    Um pouco do meu dia-dia codando
-    Skills: Python, Django, Django RestFramework, MySQL, HTML, Git,  Github.
+   Welcome and feel free to see a little of my day to day coding
+    Skills: Python, Django, Django RestFramework, MySQL, HTML, Git.
 
 
 
@@ -48,7 +48,7 @@ Outros:
 
 
 
- <h1 align='center'>Contato</h1>
+ <h1 align='center'>Contact me</h1>
    <br><br>
 
 <div align='center'>
