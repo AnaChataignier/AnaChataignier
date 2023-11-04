@@ -11,16 +11,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center"> Ana - Backend Developer </h1>
-  <h3 >
-   Welcome and feel free to see a little of my day to day coding
-  
- 
-
-
-
-
-
-</h3>
+  <h3 align="center" >
+                   Welcome and feel free to see a little of my day to day coding
+  </h3>
    
   <div align="center">
   <br><br>
