@@ -13,7 +13,8 @@
   <h1 align="center"> Ana - Backend Developer </h1>
   <h3 >
    Welcome and feel free to see a little of my day to day coding
-    Skills: Python, Django, Django RestFramework, MySQL, HTML, Git.
+  
+ 
 
 
 
