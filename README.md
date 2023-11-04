@@ -12,10 +12,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
   <h1 align="center"> Prazer, Ana - Desenvolvedora Backend </h1>
   <h3 >
-Desenvolvedora apaixonada, mergulhando cada vez mais fundo no universo da tecnologia.  A paixão por aprender coisas novas vem desde cedo. Entusiasmo e curiosidade me acompanham diáriamente nessa jornada.  
-Hard Skills: Python, Django, Django RestFramework, MySQL, HTML, Git,  Github.
+    Um pouco do meu dia-dia codando
+    Skills: Python, Django, Django RestFramework, MySQL, HTML, Git,  Github.
 
-Soft Skills: Curiosidade, Adaptabilidade, Trabalho em equipe, Comunicação, e Aprendizado Rápido.
+
 
 
 
