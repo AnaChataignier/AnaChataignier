@@ -1,58 +1,35 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1> Hi, I'm Ana Chataignier! 💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+MY+NAME+IS+ANA+CHATAIGNIER;+WELCOME+TO+MY+GITHUB:%29)]("#")
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnaChataignier&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ana stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaChataignier&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=AnaChataignier&theme=gotham&hide_border=true&area=true&color=00bfbf) -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-  <h1 align="center"> Ana - Backend Developer </h1>
-  <h3 align="center" >
-                   Welcome and feel free to see a little of my day to day coding
-  </h3>
-   
-  <div align="center">
-  <br><br>
+<div> 
+     <a href="https://instagram.com/anachataignier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:anachataignier2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/ana-chataignier-6a3768263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/+5521973711702" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
- <div  align="center">
- Fundamentos:
-  <br>
- <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
- 
-  <br>
- Linguagens: 
- <br>
- <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
-   
-    
- Ferramentas:
-    <br>
- <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'><img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'><br> <img src='https://img.shields.io/badge/Django%20Rest%20Framework-0078d7.svg?style=for-the-badge&logo=django-rest-framework&logoColor=white'>
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  <br>
-Outros:   
-  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> 
-<br><br>
-</div>
+<h2 align="left">
+Welcome, where ideas and innovation become code.
+</h2>
+<p>I'm a enthusiastic web developer!I'm constantly exploring more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. <br>
+Open to professional growth opportunities </p>
 
-
-
- <h1 align='center'>Contact me</h1>
-   <br><br>
-
-<div align='center'>
-<a  href='https://www.linkedin.com/in/ana-chataignier-6a3768263/'><img align='center' width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a> 
-
-</div>
-
-
+<p>You can contact me by email:<a href="mailto:anachataignier2@gmail.com">anachataignier2@gmail.com</a>.</p> 
 <br>
-<p align='center'>E-mail: anachataignier2@gmail.com</p>
+
+<p>I have knowledge in: </p>
+<div align="left">
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,python,django,mysql,postgresql,git,vscode
+)](https://skillicons.dev)
+
+  </div>
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaChataignier&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaChataignier&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaChataignier&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=AnaChataignier&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) 
+
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center" target='_blank'><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
-<br></div>
+  <p align="center" target='_blank'><img align="center" src="https://profile-counter.glitch.me/{carloshtbraga}/count.svg" /></p> 
+  <br></div>
+ 
