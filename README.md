@@ -18,7 +18,7 @@ Open to professional growth opportunities </p>
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,python,django,mysql,postgresql,git,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,html,vscode
 )](https://skillicons.dev)
 
   </div>
