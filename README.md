@@ -12,8 +12,7 @@ Welcome, where ideas and innovation become code.
 <p>I'm a enthusiastic web developer!I'm constantly exploring more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. <br>
 Open to professional growth opportunities </p>
 
-<p>You can contact me by email:<a href="mailto:anachataignier2@gmail.com">anachataignier2@gmail.com</a>.</p> 
-<br>
+
 
 <p>I have knowledge in: </p>
 <div align="left">
