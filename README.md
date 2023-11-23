@@ -9,7 +9,7 @@
 <h2 align="left">
 Welcome, where ideas and innovation become code.
 </h2>
-<p>I'm a enthusiastic web developer!I'm constantly exploring more and more about this fascinating field.  <br>
+<p>I'm a enthusiastic web developer! <br>I'm constantly exploring more and more about this fascinating field.  <br>
      Open to professional growth opportunities </p>
 
 
