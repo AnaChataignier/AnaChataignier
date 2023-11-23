@@ -9,8 +9,8 @@
 <h2 align="left">
 Welcome, where ideas and innovation become code.
 </h2>
-<p>I'm a enthusiastic web developer!I'm constantly exploring more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. <br>
-Open to professional growth opportunities </p>
+<p>I'm a enthusiastic web developer!I'm constantly exploring more and more about this fascinating field.  <br>
+     Open to professional growth opportunities </p>
 
 
 
