@@ -17,7 +17,7 @@ Welcome, where ideas and innovation become code.
 <p>I have knowledge in: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,html,vscode,aws
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,html,vscode,aws,postman
 )](https://skillicons.dev)
 
   </div>
